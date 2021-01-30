@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\bin\Debug\net5.0\Media-alunos.exe
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\bin\Debug\net5.0\Media-alunos.deps.json
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\bin\Debug\net5.0\Media-alunos.runtimeconfig.json
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\bin\Debug\net5.0\Media-alunos.runtimeconfig.dev.json
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\bin\Debug\net5.0\Media-alunos.dll
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\bin\Debug\net5.0\ref\Media-alunos.dll
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\bin\Debug\net5.0\Media-alunos.pdb
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\Media-alunos.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\Media-alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\Media-alunos.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\Media-alunos.AssemblyInfo.cs
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\Media-alunos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\Media-alunos.dll
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\ref\Media-alunos.dll
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\Media-alunos.pdb
+C:\Users\lucas\Documents\Cursos\BootCamp GFT\Media-alunos\obj\Debug\net5.0\Media-alunos.genruntimeconfig.cache
